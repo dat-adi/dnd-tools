@@ -4,6 +4,7 @@ A simple repository which is dedicated to building stuff which could help in pla
 List of ideas
 ---
 
--[ ] DiceParser
--[ ] Combat Tracker
--[ ] Character Monitor
+- [ ] DiceParser
+- [ ] Combat Tracker
+- [ ] Character Monitor
+ 
