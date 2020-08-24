@@ -1,2 +1,9 @@
-# dnd-tools
-A repository to build dnd-tools that could help in monitoring the progression of the game.
+# D&D Tools
+A simple repository which is dedicated to building stuff which could help in playing D&D.
+
+List of ideas
+---
+
+-[ ] DiceParser
+-[ ] Combat Tracker
+-[ ] Character Monitor
