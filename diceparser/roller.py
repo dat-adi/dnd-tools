@@ -11,6 +11,7 @@ __license__ = "MIT"
 __maintainer__ = "Datta Adithya"
 __email__ = "dat.adithya@gmail.com"
 
+
 # Rolling a number
 class Roller:
     # initiationroll rolls for initiative, taking initiation as a param
