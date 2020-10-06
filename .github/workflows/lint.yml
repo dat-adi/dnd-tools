@@ -29,6 +29,3 @@ jobs:
     - name: Lint with Pylint
       run: |
         pylint --rcfile=setup.cfg **/*.py
-    - name: Test with pytest
-      run: |
-        pytest
